@@ -1,0 +1,1 @@
+# log migration script for heroku logs 

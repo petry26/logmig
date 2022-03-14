@@ -1,0 +1,574 @@
+
+Jan 10 17:14:38 log-man heroku/router at=info method=HEAD path="/" host=127.0.0.1 request_id=d464623c-9a61-4f62-94bf-2439219b6220 user_id=3 dyno=web.1 service=1013ms status=200 protocol=https
+Jan 10 17:14:39 log-man heroku/router at=info method=OPTIONS path="/huve" host=127.0.0.1 request_id=e35346ec-0141-4dc3-a0ff-5579b15d5896 user_id=3 dyno=web.1 service=433ms status=404 protocol=https
+Jan 10 17:14:43 log-man app/web.1 GET /stylesheets/combined.css 200 1.399 ms - 655
+Jan 10 17:14:48 log-man heroku/router at=info method=GET path="/adm" host=127.0.0.1 request_id=2cf14526-1b79-42b2-be36-73801b2a21ba user_id=1 dyno=web.1 service=352ms status=403 protocol=https
+Jan 10 17:14:52 log-man heroku/router at=info method=GET path="/login" host=127.0.0.1 request_id=beb0f15d-8c7b-4e61-a2c6-e2cbb7391ac1 user_id=-1 dyno=web.1 service=993ms status=200 protocol=https
+Jan 10 17:14:53 log-man app/web.1 GET /images/sample-logo.svg 200 1.477 ms - 206
+Jan 10 17:14:55 log-man app/web.1 GET /robots.txt 200 0.705 ms - 80
+Jan 10 17:15:05 log-man app/web.1 GET /javascript/test.js 404 2.168 ms - -
+Jan 10 17:15:12 log-man heroku/router at=info method=POST path="/adm" host=127.0.0.1 request_id=ab562ed2-d69d-40fe-8561-1a33649e9028 user_id=4 dyno=web.1 service=70ms status=404 protocol=https
+Jan 10 17:15:16 log-man heroku/router at=info method=HEAD path="/login" host=127.0.0.1 request_id=c703f5f6-d2a7-4ef2-999b-7d07a891cc72 user_id=4 dyno=web.1 service=2417ms status=200 protocol=https
+Jan 10 17:15:22 log-man app/web.1 GET /javascript/analytics.js 200 2.056 ms - 1092
+Jan 10 17:15:28 log-man app/web.1 GET /images/sample-logo.svg 200 4.17 ms - 206
+Jan 10 17:15:29 log-man app/web.1 GET /images/sample.png 200 1.652 ms - 810
+Jan 10 17:15:30 log-man heroku/router at=info method=GET path="/login" host=127.0.0.1 request_id=cf71cb48-b026-4fb5-8240-437ccf164579 user_id=3 dyno=web.1 service=142ms status=200 protocol=https
+Jan 10 17:15:35 log-man app/web.1 GET /javascript/pwplddfzckyn.js 404 1.425 ms - -
+Jan 10 17:15:42 log-man app/web.1 GET /images/cats.jpg 404 1.9 ms - -
+Jan 10 17:15:49 log-man heroku/router at=info method=GET path="/adm" host=127.0.0.1 request_id=506e8a91-ddf7-4b78-b2aa-ec0f765c23d0 user_id=2 dyno=web.1 service=2211ms status=403 protocol=https
+Jan 10 17:15:55 log-man app/web.1 GET /images 400 1.37 ms - -
+Jan 10 17:16:02 log-man heroku/router at=info method=HEAD path="/adm" host=127.0.0.1 request_id=b483a9c5-8ee0-4e77-b0a0-ccad58a87452 user_id=-1 dyno=web.1 service=786ms status=403 protocol=https
+Jan 10 17:16:05 log-man heroku/router at=info method=GET path="/contact" host=127.0.0.1 request_id=ade9b1ba-9810-4115-9e86-e199b7177ceb user_id=1 dyno=web.1 service=1175ms status=200 protocol=https
+Jan 10 17:16:14 log-man app/web.1 GET /robots.txt 200 0.578 ms - 80
+Jan 10 17:16:24 log-man heroku/router at=info method=OPTIONS path="/adm" host=127.0.0.1 request_id=1db0d667-092f-46f4-9cee-6a232490af35 user_id=2 dyno=web.1 service=1255ms status=403 protocol=https
+Jan 10 17:16:32 log-man app/web.1 GET /javascript/test.js 404 3.959 ms - -
+Jan 10 17:16:35 log-man app/web.1 GET /images/sample.png 200 3.525 ms - 810
+Jan 10 17:16:44 log-man heroku/router at=info method=GET path="/logout" host=127.0.0.1 request_id=558a6af2-5a19-476e-9bc1-d095e4b5b29c user_id=1 dyno=web.1 service=319ms status=200 protocol=https
+Jan 10 17:16:53 log-man app/web.1 GET /javascript/analytics.js 200 1.837 ms - 1092
+Jan 10 17:16:54 log-man heroku/router at=info method=GET path="/login" host=127.0.0.1 request_id=76905b6b-70b6-4eae-8472-d9d01e4209ee user_id=2 dyno=web.1 service=2129ms status=200 protocol=https
+Jan 10 17:17:01 log-man heroku/router at=info method=OPTIONS path="/about" host=127.0.0.1 request_id=d61a8558-d03a-4251-87a1-e4cf14285631 user_id=3 dyno=web.1 service=958ms status=200 protocol=https
+Jan 10 17:17:02 log-man heroku/router at=info method=GET path="/login" host=127.0.0.1 request_id=115b1043-a381-4574-888b-5a11262f2b24 user_id=2 dyno=web.1 service=2302ms status=200 protocol=https
+Jan 10 17:17:09 log-man app/web.1 GET /javascript/hxmgtcjscpll.js 404 2.115 ms - -
+Jan 10 17:17:09 log-man app/web.1 GET /stylesheets/style.css 200 3.477 ms - 324
+Jan 10 17:17:17 log-man heroku/router at=info method=HEAD path="/hsvoyjhwl" host=127.0.0.1 request_id=51d58dda-5ed8-44a7-8f2b-5e0fe91313bc user_id=4 dyno=web.1 service=629ms status=404 protocol=https
+Jan 10 17:17:19 log-man app/web.1 GET /stylesheets/style.css 200 1.215 ms - 324
+Jan 10 17:17:28 log-man heroku/router at=info method=GET path="/adm" host=127.0.0.1 request_id=d99c349c-beab-4550-83ff-afba7d277bf9 user_id=2 dyno=web.1 service=1216ms status=403 protocol=https
+Jan 10 17:17:36 log-man app/web.1 GET /images/sample.png 200 1.789 ms - 810
+Jan 10 17:17:46 log-man app/web.1 GET /stylesheets/combined.css 200 0.736 ms - 655
+Jan 10 17:17:52 log-man app/web.1 GET /robots.txt 200 0.749 ms - 80
+Jan 10 17:17:55 log-man heroku/router at=info method=GET path="/about" host=127.0.0.1 request_id=6cdfc528-4eb7-4562-ba78-12dd1c03077b user_id=4 dyno=web.1 service=123ms status=200 protocol=https
+Jan 10 17:17:59 log-man heroku/router at=info method=POST path="/about" host=127.0.0.1 request_id=e2f69765-b76d-4d64-9f5f-76c344c9c196 user_id=3 dyno=web.1 service=2239ms status=404 protocol=https
+Jan 10 17:18:00 log-man app/web.1 GET /images 400 0.775 ms - -
+Jan 10 17:18:03 log-man heroku/router at=info method=GET path="/about" host=127.0.0.1 request_id=11af07f7-5c06-4a43-beb5-bc090fbe4b62 user_id=2 dyno=web.1 service=976ms status=200 protocol=https
+Jan 10 17:18:11 log-man app/web.1 GET /images 400 0.349 ms - -
+Jan 10 17:18:21 log-man app/web.1 GET /images/sample-logo.svg 200 2.698 ms - 206
+Jan 10 17:18:31 log-man heroku/router at=info method=GET path="/login" host=127.0.0.1 request_id=6796a280-f289-4b3b-8b67-50dceb2b0151 user_id=2 dyno=web.1 service=1234ms status=200 protocol=https
+Jan 10 17:18:31 log-man app/web.1 GET /images 400 0.501 ms - -
+Jan 10 17:18:39 log-man app/web.1 GET /javascript/analytics.js 200 1.272 ms - 1092
+Jan 10 17:18:40 log-man app/web.1 GET /javascript/analytics.js 200 2.078 ms - 1092
+Jan 10 17:18:42 log-man heroku/router at=info method=GET path="/" host=127.0.0.1 request_id=62fa5738-2e48-4fb2-a1d1-6afb0da7dbd4 user_id=-1 dyno=web.1 service=1947ms status=200 protocol=https
+Jan 10 17:18:50 log-man heroku/router at=info method=POST path="/login" host=127.0.0.1 request_id=c3864b6d-e197-4c4d-8517-aa70e3c4895c user_id=4 dyno=web.1 service=758ms status=200 protocol=https
+Jan 10 17:18:59 log-man heroku/router at=info method=OPTIONS path="/about" host=127.0.0.1 request_id=98671f94-5edc-4215-886d-2ae8b265918b user_id=2 dyno=web.1 service=205ms status=200 protocol=https
+Jan 10 17:19:07 log-man app/web.1 GET /javascript/isvompkkbutd.js 404 1.0 ms - -
+Jan 10 17:19:12 log-man heroku/router at=info method=HEAD path="/about" host=127.0.0.1 request_id=7e14ca76-5b60-41e7-9a38-12552c29b2b5 user_id=4 dyno=web.1 service=1456ms status=200 protocol=https
+Jan 10 17:19:13 log-man heroku/router at=info method=POST path="/logout" host=127.0.0.1 request_id=ea918802-abb0-424f-8df3-bfa70108527f user_id=-1 dyno=web.1 service=1365ms status=401 protocol=https
+Jan 10 17:19:23 log-man app/web.1 GET /images/sample-logo.svg 200 0.146 ms - 206
+Jan 10 17:19:32 log-man app/web.1 GET /javascript/fiwrlzzdiboo.js 404 5.569 ms - -
+Jan 10 17:19:32 log-man app/web.1 GET /favicon.ico 404 3.892 ms - -
+Jan 10 22:55:05 log-man heroku/router at=info method=POST path="/login" host=127.0.0.1 request_id=9cedc366-8991-45fd-be2f-95f5aab8010c user_id=1 dyno=web.1 service=1073ms status=200 protocol=https
+Jan 10 22:55:12 log-man app/web.1 GET /javascript/tudedbcblpov.js 404 2.054 ms - -
+Jan 10 22:55:18 log-man app/web.1 GET /javascript/lwpvteeduqtt.js 404 3.174 ms - -
+Jan 10 22:55:18 log-man app/web.1 GET /javascript/xilleqvzflvu.js 404 0.646 ms - -
+Jan 10 22:55:24 log-man app/web.1 GET /javascript/analytics.js 200 4.115 ms - 1092
+Jan 10 22:55:30 log-man app/web.1 GET /images/sample.png 200 1.143 ms - 810
+Jan 10 22:55:40 log-man app/web.1 GET /robots.txt 200 1.482 ms - 80
+Jan 10 22:55:41 log-man heroku/router at=info method=GET path="/sbzxr" host=127.0.0.1 request_id=9c18c93e-76b3-4e52-9dad-854ec2c9ced1 user_id=4 dyno=web.1 service=2486ms status=404 protocol=https
+Jan 10 22:55:47 log-man heroku/router at=info method=HEAD path="/adm" host=127.0.0.1 request_id=8822efcd-5780-4b71-bf7b-0588da39c2e6 user_id=2 dyno=web.1 service=1309ms status=403 protocol=https
+Jan 10 22:55:51 log-man app/web.1 GET /stylesheets/style.css 200 1.085 ms - 324
+Jan 10 22:55:56 log-man heroku/router at=info method=GET path="/login" host=127.0.0.1 request_id=d27fb984-1afc-4ca9-a4c7-20c4d430ee94 user_id=4 dyno=web.1 service=1862ms status=200 protocol=https
+Jan 10 22:56:03 log-man heroku/router at=info method=GET path="/logout" host=127.0.0.1 request_id=72bbbd63-c70f-4d2f-af12-eb9c2b6bf1a1 user_id=-1 dyno=web.1 service=1084ms status=200 protocol=https
+Jan 10 22:56:07 log-man app/web.1 GET /javascript/test.js 404 2.802 ms - -
+Jan 10 22:56:13 log-man app/web.1 GET /images/sample-logo.svg 200 0.306 ms - 206
+Jan 10 22:56:20 log-man app/web.1 GET /favicon.ico 404 2.313 ms - -
+Jan 10 22:56:24 log-man heroku/router at=info method=GET path="/login" host=127.0.0.1 request_id=c84a2136-f645-48f9-9192-c499c69d0b9f user_id=2 dyno=web.1 service=1637ms status=200 protocol=https
+Jan 10 22:56:24 log-man heroku/router at=info method=GET path="/login" host=127.0.0.1 request_id=96efedb1-e9e6-40ce-8b13-f19a783abee3 user_id=1 dyno=web.1 service=811ms status=200 protocol=https
+Jan 10 22:56:32 log-man app/web.1 GET /stylesheets 400 0.86 ms - -
+Jan 10 22:56:41 log-man app/web.1 GET /images/cats.jpg 404 3.729 ms - -
+Jan 10 22:56:49 log-man heroku/router at=info method=GET path="/" host=127.0.0.1 request_id=56e42fa1-0048-4329-abd7-f10311f87aec user_id=1 dyno=web.1 service=1814ms status=200 protocol=https
+Jan 10 22:56:54 log-man heroku/router at=info method=GET path="/adm" host=127.0.0.1 request_id=5bded4fb-e9e4-448b-b4ea-e9ae176a3d92 user_id=3 dyno=web.1 service=515ms status=403 protocol=https
+Jan 10 22:56:56 log-man app/web.1 GET /javascript/xbaurlecgkyv.js 404 4.476 ms - -
+Jan 10 22:56:59 log-man heroku/router at=info method=GET path="/adm" host=127.0.0.1 request_id=a296eaea-1576-474b-afa3-eeccd9a535bc user_id=1 dyno=web.1 service=1180ms status=403 protocol=https
+Jan 10 22:57:00 log-man app/web.1 GET /favicon.ico 404 2.111 ms - -
+Jan 10 22:57:08 log-man heroku/router at=info method=OPTIONS path="/login" host=127.0.0.1 request_id=490c2f3c-0c6a-47be-8304-d27faa0cd6e2 user_id=4 dyno=web.1 service=562ms status=200 protocol=https
+Jan 10 22:57:13 log-man app/web.1 GET /javascript/analytics.js 200 2.983 ms - 1092
+Jan 10 22:57:17 log-man heroku/router at=info method=POST path="/adm" host=127.0.0.1 request_id=0a730bb7-1ee2-4865-a7da-111ac79a5904 user_id=4 dyno=web.1 service=1166ms status=404 protocol=https
+Jan 10 22:57:18 log-man app/web.1 GET /stylesheets 400 0.177 ms - -
+Jan 10 22:57:28 log-man app/web.1 GET /stylesheets/style.css 200 0.407 ms - 324
+Jan 10 22:57:35 log-man heroku/router at=info method=GET path="/ksktosvwnin" host=127.0.0.1 request_id=e2c62fad-6656-4605-949d-0342a7a65f2f user_id=-1 dyno=web.1 service=707ms status=404 protocol=https
+Jan 10 22:57:43 log-man heroku/router at=info method=POST path="/login" host=127.0.0.1 request_id=728f6094-f152-454f-9ef5-95b21734c0d9 user_id=1 dyno=web.1 service=1297ms status=200 protocol=https
+Jan 10 22:57:48 log-man app/web.1 GET /stylesheets/style.css 200 0.007 ms - 324
+Jan 10 22:57:56 log-man app/web.1 GET /images/sample.png 200 0.238 ms - 810
+Jan 10 22:57:59 log-man app/web.1 GET /images/sample.png 200 1.602 ms - 810
+Jan 10 22:58:06 log-man app/web.1 GET /images/sample.png 200 0.286 ms - 810
+Jan 10 22:58:08 log-man app/web.1 GET /javascript/xkmzgwiractr.js 404 3.541 ms - -
+Jan 10 22:58:11 log-man app/web.1 GET /stylesheets 400 4.229 ms - -
+Jan 10 22:58:14 log-man app/web.1 GET /stylesheets/combined.css 200 2.748 ms - 655
+Jan 10 22:58:23 log-man app/web.1 GET /javascript/ixecdkwwinos.js 404 0.464 ms - -
+Jan 10 22:58:32 log-man heroku/router at=info method=GET path="/logout" host=127.0.0.1 request_id=0d97e423-6fa4-4d3d-b20c-4705621eeea8 user_id=3 dyno=web.1 service=183ms status=200 protocol=https
+Jan 10 22:58:33 log-man app/web.1 GET /javascript/test.js 404 0.597 ms - -
+Jan 10 22:58:34 log-man app/web.1 GET /images/sample-logo.svg 200 0.2 ms - 206
+Jan 10 22:58:37 log-man heroku/router at=info method=GET path="/" host=127.0.0.1 request_id=8c33f345-b00e-4960-a56d-7967031c017a user_id=4 dyno=web.1 service=1263ms status=200 protocol=https
+Jan 10 22:58:41 log-man heroku/router at=info method=OPTIONS path="/" host=127.0.0.1 request_id=4828cb0f-a7c8-41e0-890e-f6ba0ad16ea6 user_id=-1 dyno=web.1 service=931ms status=200 protocol=https
+Jan 10 22:58:48 log-man heroku/router at=info method=GET path="/login" host=127.0.0.1 request_id=24b659ad-38e5-49bc-bce3-9f8893f821ad user_id=4 dyno=web.1 service=2182ms status=200 protocol=https
+Jan 10 22:58:57 log-man heroku/router at=info method=HEAD path="/" host=127.0.0.1 request_id=a4e1937d-977f-4e86-b921-8462d7e7e033 user_id=1 dyno=web.1 service=714ms status=200 protocol=https
+Jan 10 22:59:04 log-man heroku/router at=info method=HEAD path="/" host=127.0.0.1 request_id=31a490f7-4303-4b57-8573-30ce1d4fb1ab user_id=4 dyno=web.1 service=644ms status=200 protocol=https
+Jan 10 22:59:07 log-man app/web.1 GET /javascript/test.js 404 4.174 ms - -
+Jan 10 22:59:15 log-man app/web.1 GET /images 400 3.796 ms - -
+Jan 10 22:59:25 log-man app/web.1 GET /javascript/analytics.js 200 0.714 ms - 1092
+Jan 10 22:59:25 log-man app/web.1 GET /javascript/analytics.js 200 2.467 ms - 1092
+Jan 10 22:59:30 log-man app/web.1 GET /javascript/test.js 404 3.974 ms - -
+Jan 10 22:59:40 log-man app/web.1 GET /favicon.ico 404 0.97 ms - -
+Jan 10 22:59:41 log-man heroku/router at=info method=OPTIONS path="/login" host=127.0.0.1 request_id=b4399a45-d3ee-4b9d-862a-f9c8378faff2 user_id=2 dyno=web.1 service=1903ms status=200 protocol=https
+Jan 10 22:59:42 log-man app/web.1 GET /stylesheets/combined.css 200 0.813 ms - 655
+Jan 10 22:59:45 log-man app/web.1 GET /javascript/test.js 404 0.183 ms - -
+Jan 10 22:59:50 log-man app/web.1 GET /javascript/bswrwprvoack.js 404 0.898 ms - -
+Jan 10 23:00:00 log-man heroku/router at=info method=GET path="/gvvkeozpba" host=127.0.0.1 request_id=08b2c8c1-c78a-42ab-959f-d7409139ac35 user_id=1 dyno=web.1 service=1279ms status=404 protocol=https
+Jan 10 23:00:09 log-man app/web.1 GET /robots.txt 200 3.34 ms - 80
+Jan 10 23:00:13 log-man app/web.1 GET /stylesheets/style.css 200 0.922 ms - 324
+Jan 10 23:00:21 log-man app/web.1 GET /images/cats.jpg 404 0.447 ms - -
+Jan 10 23:00:30 log-man app/web.1 GET /robots.txt 200 0.226 ms - 80
+Jan 10 23:00:37 log-man app/web.1 GET /stylesheets/combined.css 200 5.238 ms - 655
+Jan 10 23:00:42 log-man app/web.1 GET /images/cats.jpg 404 0.525 ms - -
+Jan 10 23:00:42 log-man app/web.1 GET /images/sample.png 200 0.092 ms - 810
+Jan 10 23:00:51 log-man app/web.1 GET /stylesheets 400 4.439 ms - -
+Jan 10 23:00:56 log-man heroku/router at=info method=GET path="/login" host=127.0.0.1 request_id=0b2d8ed5-194f-4e21-825d-d2fe370bf281 user_id=3 dyno=web.1 service=2196ms status=200 protocol=https
+Jan 10 23:01:01 log-man heroku/router at=info method=GET path="/login" host=127.0.0.1 request_id=518b1feb-9dc9-40fb-8416-67985ee988df user_id=1 dyno=web.1 service=1200ms status=200 protocol=https
+Jan 10 23:01:04 log-man app/web.1 GET /favicon.ico 404 0.095 ms - -
+Jan 10 23:01:13 log-man app/web.1 GET /images/sample-logo.svg 200 2.282 ms - 206
+Jan 10 23:01:17 log-man app/web.1 GET /stylesheets/style.css 200 0.212 ms - 324
+Jan 10 23:01:25 log-man app/web.1 GET /robots.txt 200 3.312 ms - 80
+Jan 10 23:01:35 log-man heroku/router at=info method=OPTIONS path="/logout" host=127.0.0.1 request_id=6af79bc2-91b8-4da7-ac75-3f63c183e47f user_id=-1 dyno=web.1 service=1307ms status=200 protocol=https
+Jan 10 23:01:38 log-man app/web.1 GET /stylesheets 400 3.299 ms - -
+Jan 10 23:01:42 log-man app/web.1 GET /javascript/analytics.js 200 0.042 ms - 1092
+Jan 10 23:01:46 log-man heroku/router at=info method=HEAD path="/" host=127.0.0.1 request_id=485d74a4-1e29-44c5-a446-3081094e0fc0 user_id=1 dyno=web.1 service=481ms status=200 protocol=https
+Jan 10 23:01:52 log-man app/web.1 GET /stylesheets/combined.css 200 1.652 ms - 655
+Jan 10 23:01:53 log-man heroku/router at=info method=POST path="/login" host=127.0.0.1 request_id=6caf592b-25a0-4477-af18-52e9443c370e user_id=-1 dyno=web.1 service=1691ms status=401 protocol=https
+Jan 10 23:02:03 log-man app/web.1 GET /images/cats.jpg 404 1.66 ms - -
+Jan 10 23:02:07 log-man heroku/router at=info method=HEAD path="/adm" host=127.0.0.1 request_id=ce8c7e96-f5ca-4199-8795-5e2c382bcc78 user_id=2 dyno=web.1 service=2448ms status=403 protocol=https
+Jan 10 23:02:10 log-man app/web.1 GET /favicon.ico 404 3.361 ms - -
+Jan 10 23:02:14 log-man heroku/router at=info method=HEAD path="/" host=127.0.0.1 request_id=40a41bfa-d223-485f-b93c-7f5ff0c77be8 user_id=3 dyno=web.1 service=528ms status=200 protocol=https
+Jan 10 23:02:15 log-man app/web.1 GET /javascript/fyfvluyqprhr.js 404 5.933 ms - -
+Jan 10 23:02:24 log-man app/web.1 GET /robots.txt 200 0.599 ms - 80
+Jan 10 23:02:25 log-man app/web.1 GET /images/sample.png 200 0.821 ms - 810
+Jan 10 23:02:32 log-man app/web.1 GET /stylesheets/style.css 200 0.803 ms - 324
+Jan 10 23:02:37 log-man app/web.1 GET /stylesheets/style.css 200 1.181 ms - 324
+Jan 10 23:02:45 log-man app/web.1 GET /javascript/prwcxlwwestb.js 404 1.075 ms - -
+Jan 10 23:02:53 log-man app/web.1 GET /javascript/analytics.js 200 1.0 ms - 1092
+Jan 10 23:03:03 log-man app/web.1 GET /images 400 1.588 ms - -
+Jan 10 23:03:12 log-man heroku/router at=info method=POST path="/adm" host=127.0.0.1 request_id=2ca40255-cfac-4cfb-adc3-b14e929f7273 user_id=-1 dyno=web.1 service=2037ms status=404 protocol=https
+Jan 10 23:03:19 log-man app/web.1 GET /javascript/analytics.js 200 2.377 ms - 1092
+Jan 10 23:03:20 log-man app/web.1 GET /javascript/test.js 404 3.597 ms - -
+Jan 10 23:03:29 log-man app/web.1 GET /stylesheets/combined.css 200 0.87 ms - 655
+Jan 10 23:03:39 log-man app/web.1 GET /images 400 3.003 ms - -
+Jan 10 23:03:41 log-man app/web.1 GET /stylesheets/combined.css 200 0.121 ms - 655
+Jan 10 23:03:45 log-man heroku/router at=info method=POST path="/about" host=127.0.0.1 request_id=2e342e81-ea4b-4d2e-a293-3c218c3d6db7 user_id=-1 dyno=web.1 service=701ms status=404 protocol=https
+Jan 10 23:03:50 log-man app/web.1 GET /stylesheets/combined.css 200 3.645 ms - 655
+Jan 10 23:03:57 log-man heroku/router at=info method=POST path="/adm" host=127.0.0.1 request_id=19285da3-f64d-40dd-81f3-9d8d0e815a5a user_id=4 dyno=web.1 service=1884ms status=404 protocol=https
+Jan 10 23:04:00 log-man app/web.1 GET /stylesheets 400 2.023 ms - -
+Jan 10 23:04:02 log-man heroku/router at=info method=GET path="/cqlnkjpjwnx" host=127.0.0.1 request_id=217635cd-088e-491c-a0f3-b2cb89260751 user_id=1 dyno=web.1 service=816ms status=404 protocol=https
+Jan 10 23:04:07 log-man app/web.1 GET /images 400 0.152 ms - -
+Jan 10 23:04:11 log-man app/web.1 GET /images/sample.png 200 4.004 ms - 810
+Jan 10 23:04:14 log-man heroku/router at=info method=GET path="/contact" host=127.0.0.1 request_id=10613b2b-5d52-4627-ab0f-cbade98d9099 user_id=2 dyno=web.1 service=1327ms status=200 protocol=https
+Jan 10 23:04:22 log-man app/web.1 GET /javascript/test.js 404 0.039 ms - -
+Jan 10 23:04:23 log-man app/web.1 GET /stylesheets 400 1.855 ms - -
+Jan 10 23:04:30 log-man app/web.1 GET /images/sample-logo.svg 200 0.167 ms - 206
+Jan 10 23:04:32 log-man heroku/router at=info method=GET path="/" host=127.0.0.1 request_id=8e8d44fb-93f2-4bea-8798-856903caa896 user_id=1 dyno=web.1 service=1996ms status=200 protocol=https
+Jan 10 23:04:35 log-man heroku/router at=info method=HEAD path="/login" host=127.0.0.1 request_id=82f8ad54-8a8a-4101-ac21-86818a3cd8b9 user_id=-1 dyno=web.1 service=1798ms status=200 protocol=https
+Jan 10 23:04:41 log-man app/web.1 GET /images/sample-logo.svg 200 0.335 ms - 206
+Jan 10 23:04:41 log-man app/web.1 GET /javascript/cjklckxhrsxb.js 404 0.863 ms - -
+Jan 10 23:04:44 log-man app/web.1 GET /javascript/analytics.js 200 3.027 ms - 1092
+Jan 10 23:04:48 log-man app/web.1 GET /images/cats.jpg 404 0.789 ms - -
+Jan 10 23:04:50 log-man heroku/router at=info method=GET path="/login" host=127.0.0.1 request_id=472d7625-fbeb-4566-9492-10463cea0893 user_id=4 dyno=web.1 service=254ms status=200 protocol=https
+Jan 10 23:04:54 log-man app/web.1 GET /javascript/ljjuygjdtsbn.js 404 3.709 ms - -
+Jan 10 23:04:58 log-man app/web.1 GET /javascript/analytics.js 200 0.285 ms - 1092
+Jan 10 23:05:02 log-man app/web.1 GET /images/sample.png 200 1.235 ms - 810
+Jan 10 23:05:10 log-man app/web.1 GET /images 400 1.598 ms - -
+Jan 10 23:05:19 log-man app/web.1 GET /javascript/analytics.js 200 0.759 ms - 1092
+Jan 10 23:05:21 log-man app/web.1 GET /stylesheets/style.css 200 0.933 ms - 324
+Jan 10 23:05:27 log-man heroku/router at=info method=HEAD path="/contact" host=127.0.0.1 request_id=92b6b02e-f756-418f-b978-fc6d0c6429ae user_id=1 dyno=web.1 service=277ms status=200 protocol=https
+Jan 10 23:05:33 log-man app/web.1 GET /javascript/analytics.js 200 3.807 ms - 1092
+Jan 10 23:05:43 log-man app/web.1 GET /javascript/test.js 404 1.346 ms - -
+Jan 10 23:05:48 log-man app/web.1 GET /images/sample.png 200 2.491 ms - 810
+Jan 10 23:05:48 log-man app/web.1 GET /stylesheets/style.css 200 3.43 ms - 324
+Jan 10 23:05:58 log-man heroku/router at=info method=GET path="/login" host=127.0.0.1 request_id=de96ba54-e848-4ddc-8dd5-a644e8b910be user_id=4 dyno=web.1 service=924ms status=200 protocol=https
+Jan 10 23:05:58 log-man app/web.1 GET /javascript/test.js 404 0.706 ms - -
+Jan 10 23:06:06 log-man heroku/router at=info method=POST path="/rm" host=127.0.0.1 request_id=59c55b08-0c5c-46db-94f6-59622a377a0d user_id=4 dyno=web.1 service=797ms status=404 protocol=https
+Jan 10 23:06:12 log-man app/web.1 GET /images/sample-logo.svg 200 1.913 ms - 206
+Jan 10 23:06:21 log-man app/web.1 GET /robots.txt 200 2.933 ms - 80
+Jan 10 23:06:24 log-man heroku/router at=info method=GET path="/login" host=127.0.0.1 request_id=ec716cd6-ee98-43cd-a1da-8a1eab0a9240 user_id=3 dyno=web.1 service=933ms status=200 protocol=https
+Jan 10 23:06:30 log-man heroku/router at=info method=POST path="/logout" host=127.0.0.1 request_id=e7bd3fea-bd7e-4ec1-8f8b-3f1a01eb9333 user_id=-1 dyno=web.1 service=2137ms status=401 protocol=https
+Jan 10 23:06:40 log-man heroku/router at=info method=GET path="/whoycwbcodtm" host=127.0.0.1 request_id=8b2e296c-5ca1-4913-a789-0a9e1112ccbb user_id=-1 dyno=web.1 service=1908ms status=404 protocol=https
+Jan 10 23:06:40 log-man heroku/router at=info method=GET path="/login" host=127.0.0.1 request_id=1524faba-b934-4025-8c96-eb8eceec771f user_id=1 dyno=web.1 service=1035ms status=200 protocol=https
+Jan 10 23:06:48 log-man app/web.1 GET /javascript/analytics.js 200 2.786 ms - 1092
+Jan 10 23:06:56 log-man heroku/router at=info method=GET path="/" host=127.0.0.1 request_id=d6207394-45bd-45af-bc2e-9a2d6546e961 user_id=1 dyno=web.1 service=2440ms status=200 protocol=https
+Jan 10 23:07:04 log-man app/web.1 GET /images/sample-logo.svg 200 2.517 ms - 206
+Jan 10 23:07:06 log-man app/web.1 GET /stylesheets 400 4.477 ms - -
+Jan 10 23:07:15 log-man app/web.1 GET /stylesheets/style.css 200 0.572 ms - 324
+Jan 10 23:07:22 log-man app/web.1 GET /stylesheets/combined.css 200 3.919 ms - 655
+Jan 10 23:07:30 log-man app/web.1 GET /images 400 0.586 ms - -
+Jan 10 23:07:38 log-man heroku/router at=info method=HEAD path="/login" host=127.0.0.1 request_id=966c546f-821e-4ea6-94d9-46f8c7c130cf user_id=1 dyno=web.1 service=2087ms status=200 protocol=https
+Jan 10 23:07:45 log-man app/web.1 GET /images/sample-logo.svg 200 1.201 ms - 206
+Jan 10 23:07:46 log-man app/web.1 GET /images/sample.png 200 0.041 ms - 810
+Jan 10 23:07:49 log-man app/web.1 GET /stylesheets/style.css 200 1.174 ms - 324
+Jan 10 23:07:59 log-man app/web.1 GET /images/sample.png 200 1.668 ms - 810
+Jan 10 23:08:02 log-man heroku/router at=info method=GET path="/contact" host=127.0.0.1 request_id=4a8453cc-79e4-4829-ae4e-33424444cb4a user_id=3 dyno=web.1 service=1943ms status=200 protocol=https
+Jan 10 23:08:03 log-man app/web.1 GET /images/sample.png 200 2.198 ms - 810
+Jan 10 23:08:06 log-man heroku/router at=info method=HEAD path="/login" host=127.0.0.1 request_id=13974afd-4064-458e-9078-aca7d3539b2f user_id=2 dyno=web.1 service=2399ms status=200 protocol=https
+Jan 10 23:08:14 log-man app/web.1 GET /javascript/test.js 404 1.113 ms - -
+Jan 10 23:08:22 log-man app/web.1 GET /images/sample.png 200 1.57 ms - 810
+Jan 10 23:08:25 log-man heroku/router at=info method=GET path="/contact" host=127.0.0.1 request_id=b07f11df-3406-4046-ac79-70f0c58085e9 user_id=4 dyno=web.1 service=580ms status=200 protocol=https
+Jan 10 23:08:29 log-man heroku/router at=info method=HEAD path="/login" host=127.0.0.1 request_id=31a86d3a-f780-48f5-af09-03d89ee84cef user_id=1 dyno=web.1 service=357ms status=200 protocol=https
+Jan 10 23:08:35 log-man app/web.1 GET /robots.txt 200 3.091 ms - 80
+Jan 10 23:08:44 log-man app/web.1 GET /robots.txt 200 2.697 ms - 80
+Jan 10 23:08:47 log-man app/web.1 GET /javascript/test.js 404 0.401 ms - -
+Jan 10 23:08:48 log-man heroku/router at=info method=POST path="/about" host=127.0.0.1 request_id=c81a29ac-533c-44ee-82fe-944073077cce user_id=-1 dyno=web.1 service=420ms status=404 protocol=https
+Jan 10 23:08:56 log-man app/web.1 GET /stylesheets/style.css 200 0.571 ms - 324
+Jan 10 23:09:06 log-man app/web.1 GET /robots.txt 200 2.678 ms - 80
+Jan 10 23:09:08 log-man heroku/router at=info method=GET path="/ncbujmtk" host=127.0.0.1 request_id=8ebea95e-b7db-474b-a498-f680e0dc8d07 user_id=1 dyno=web.1 service=675ms status=404 protocol=https
+Jan 10 23:09:13 log-man heroku/router at=info method=GET path="/logout" host=127.0.0.1 request_id=6a809b3e-f31b-4a93-9bb8-133857e4d255 user_id=4 dyno=web.1 service=1504ms status=200 protocol=https
+Jan 10 23:09:21 log-man app/web.1 GET /stylesheets/combined.css 200 0.049 ms - 655
+Jan 10 23:09:27 log-man heroku/router at=info method=GET path="/about" host=127.0.0.1 request_id=023d77c4-169b-4fdc-9f56-4bf2572c1ecd user_id=4 dyno=web.1 service=1095ms status=200 protocol=https
+Jan 10 23:09:34 log-man app/web.1 GET /javascript/tztlohcdkzgr.js 404 0.937 ms - -
+Jan 10 23:09:37 log-man app/web.1 GET /favicon.ico 404 1.992 ms - -
+Jan 10 23:09:44 log-man app/web.1 GET /javascript/fzkzvlmneptw.js 404 1.523 ms - -
+Jan 10 23:09:45 log-man app/web.1 GET /stylesheets/combined.css 200 2.126 ms - 655
+Jan 10 23:09:48 log-man app/web.1 GET /stylesheets 400 0.569 ms - -
+Jan 10 23:09:55 log-man heroku/router at=info method=OPTIONS path="/adm" host=127.0.0.1 request_id=46488f26-ac04-40e0-9398-7e41a95c7d2c user_id=1 dyno=web.1 service=1104ms status=403 protocol=https
+Jan 10 23:09:55 log-man app/web.1 GET /images/sample.png 200 2.425 ms - 810
+Jan 10 23:09:59 log-man app/web.1 GET /robots.txt 200 3.53 ms - 80
+Jan 10 23:10:05 log-man app/web.1 GET /stylesheets/combined.css 200 3.931 ms - 655
+Jan 10 23:10:06 log-man heroku/router at=info method=HEAD path="/contact" host=127.0.0.1 request_id=0f34523e-abbb-41cf-b385-d18b6de600e2 user_id=-1 dyno=web.1 service=1951ms status=200 protocol=https
+Jan 10 23:10:10 log-man app/web.1 GET /images 400 1.79 ms - -
+Jan 10 23:10:13 log-man app/web.1 GET /javascript/analytics.js 200 0.033 ms - 1092
+Jan 10 23:10:14 log-man app/web.1 GET /javascript/analytics.js 200 0.084 ms - 1092
+Jan 10 23:10:20 log-man app/web.1 GET /javascript/acdhvqidqoco.js 404 1.348 ms - -
+Jan 10 23:10:27 log-man app/web.1 GET /images/cats.jpg 404 0.115 ms - -
+Jan 10 23:10:36 log-man app/web.1 GET /images 400 3.888 ms - -
+Jan 10 23:10:36 log-man app/web.1 GET /favicon.ico 404 0.479 ms - -
+Jan 10 23:10:45 log-man app/web.1 GET /javascript/ciffxsdcylrp.js 404 5.02 ms - -
+Jan 10 23:10:54 log-man app/web.1 GET /stylesheets 400 3.798 ms - -
+Jan 10 23:11:01 log-man app/web.1 GET /images/sample-logo.svg 200 1.01 ms - 206
+Jan 10 23:11:03 log-man app/web.1 GET /images 400 1.384 ms - -
+Jan 10 23:11:04 log-man heroku/router at=info method=POST path="/contact" host=127.0.0.1 request_id=0582c38c-5eb6-4e15-bc74-715fb58be3bf user_id=2 dyno=web.1 service=1121ms status=404 protocol=https
+Jan 10 23:11:09 log-man app/web.1 GET /stylesheets 400 2.761 ms - -
+Jan 10 23:11:16 log-man app/web.1 GET /images/sample.png 200 0.692 ms - 810
+Jan 10 23:11:18 log-man app/web.1 GET /images/sample-logo.svg 200 0.835 ms - 206
+Jan 10 23:11:19 log-man app/web.1 GET /images/sample.png 200 0.049 ms - 810
+Jan 10 23:11:28 log-man app/web.1 GET /favicon.ico 404 3.052 ms - -
+Jan 10 23:11:32 log-man app/web.1 GET /favicon.ico 404 0.281 ms - -
+Jan 10 23:11:32 log-man app/web.1 GET /images 400 0.441 ms - -
+Jan 10 23:11:32 log-man app/web.1 GET /stylesheets 400 0.02 ms - -
+Jan 10 23:11:38 log-man heroku/router at=info method=GET path="/adm" host=127.0.0.1 request_id=55dcb151-e1ae-48ff-94af-a16010036ee0 user_id=4 dyno=web.1 service=1089ms status=200 protocol=https
+Jan 10 23:11:44 log-man app/web.1 GET /stylesheets/combined.css 200 0.009 ms - 655
+Jan 10 23:11:51 log-man app/web.1 GET /stylesheets/combined.css 200 0.164 ms - 655
+Jan 10 23:11:55 log-man app/web.1 GET /images/sample-logo.svg 200 0.286 ms - 206
+Jan 10 23:12:03 log-man heroku/router at=info method=GET path="/adm" host=127.0.0.1 request_id=e15f43a6-46cf-4df9-b836-59514c458b36 user_id=4 dyno=web.1 service=2006ms status=200 protocol=https
+Jan 10 23:12:11 log-man heroku/router at=info method=HEAD path="/" host=127.0.0.1 request_id=80642aa5-87c9-4e7d-98ad-41f65d5cd49d user_id=1 dyno=web.1 service=2120ms status=200 protocol=https
+Jan 10 23:12:21 log-man heroku/router at=info method=GET path="/contact" host=127.0.0.1 request_id=cb249a94-bd5b-42dd-8d81-d0b2a2d561cf user_id=3 dyno=web.1 service=1243ms status=200 protocol=https
+Jan 10 23:12:23 log-man app/web.1 GET /javascript/test.js 404 1.116 ms - -
+Jan 10 23:12:33 log-man app/web.1 GET /javascript/ohwjqbggnsqv.js 404 1.145 ms - -
+Jan 10 23:12:39 log-man app/web.1 GET /images/sample-logo.svg 200 0.969 ms - 206
+Jan 10 23:12:41 log-man heroku/router at=info method=POST path="/about" host=127.0.0.1 request_id=df094805-0c8f-47d8-af9c-a398e0b350d8 user_id=3 dyno=web.1 service=944ms status=404 protocol=https
+Jan 10 23:12:44 log-man app/web.1 GET /stylesheets/combined.css 200 0.961 ms - 655
+Jan 10 23:12:49 log-man app/web.1 GET /images/cats.jpg 404 2.725 ms - -
+Jan 10 23:12:58 log-man app/web.1 GET /javascript/test.js 404 4.469 ms - -
+Jan 10 23:13:05 log-man app/web.1 GET /robots.txt 200 1.377 ms - 80
+Jan 10 23:13:14 log-man app/web.1 GET /images/sample-logo.svg 200 2.275 ms - 206
+Jan 10 23:13:19 log-man heroku/router at=info method=OPTIONS path="/login" host=127.0.0.1 request_id=373ea404-5ae6-4c6c-a27a-67c5fd4ef433 user_id=1 dyno=web.1 service=507ms status=200 protocol=https
+Jan 10 23:13:28 log-man app/web.1 GET /favicon.ico 404 1.442 ms - -
+Jan 10 23:13:34 log-man heroku/router at=info method=GET path="/about" host=127.0.0.1 request_id=707c0230-feeb-4e1c-a9b7-792777abda4a user_id=-1 dyno=web.1 service=1870ms status=200 protocol=https
+Jan 10 23:13:35 log-man app/web.1 GET /images/cats.jpg 404 1.623 ms - -
+Jan 10 23:13:39 log-man heroku/router at=info method=POST path="/contact" host=127.0.0.1 request_id=dee6c6ba-c00a-4b8b-bccc-b4622226eb5d user_id=4 dyno=web.1 service=1863ms status=404 protocol=https
+Jan 10 23:13:46 log-man app/web.1 GET /images/sample-logo.svg 200 2.538 ms - 206
+Jan 10 23:13:50 log-man app/web.1 GET /robots.txt 200 1.001 ms - 80
+Jan 10 23:13:54 log-man app/web.1 GET /images 400 0.029 ms - -
+Jan 10 23:13:56 log-man heroku/router at=info method=HEAD path="/login" host=127.0.0.1 request_id=ab758c02-2072-4063-8c30-919d2779f68d user_id=2 dyno=web.1 service=878ms status=200 protocol=https
+Jan 10 23:13:59 log-man app/web.1 GET /images/sample.png 200 5.612 ms - 810
+Jan 10 23:14:04 log-man heroku/router at=info method=GET path="/uihgdn" host=127.0.0.1 request_id=16aa44a5-bb2a-414a-9633-de840758fb23 user_id=2 dyno=web.1 service=153ms status=404 protocol=https
+Jan 10 23:14:07 log-man app/web.1 GET /images/sample.png 200 4.657 ms - 810
+Jan 10 23:14:15 log-man heroku/router at=info method=GET path="/flfhcq" host=127.0.0.1 request_id=3f1f7ef4-a8be-48c6-bbab-3c7637a0f08e user_id=-1 dyno=web.1 service=264ms status=404 protocol=https
+Jan 10 23:14:17 log-man heroku/router at=info method=HEAD path="/login" host=127.0.0.1 request_id=d01216cf-50c4-42a2-84f2-850f4c7a9c81 user_id=4 dyno=web.1 service=335ms status=200 protocol=https
+Jan 10 23:14:25 log-man app/web.1 GET /stylesheets 400 1.419 ms - -
+Jan 10 23:14:25 log-man app/web.1 GET /stylesheets 400 0.345 ms - -
+Jan 10 23:14:29 log-man app/web.1 GET /images/cats.jpg 404 0.421 ms - -
+Jan 10 23:14:31 log-man heroku/router at=info method=HEAD path="/" host=127.0.0.1 request_id=73cad03f-a900-4a43-9794-f9d1e8cf658a user_id=3 dyno=web.1 service=1347ms status=200 protocol=https
+Jan 10 23:14:34 log-man app/web.1 GET /images 400 1.026 ms - -
+Jan 10 23:14:39 log-man app/web.1 GET /stylesheets 400 2.785 ms - -
+Jan 10 23:14:39 log-man app/web.1 GET /javascript/gjrvmbqpfpxz.js 404 0.439 ms - -
+Jan 10 23:14:46 log-man app/web.1 GET /favicon.ico 404 1.585 ms - -
+Jan 10 23:14:51 log-man heroku/router at=info method=POST path="/login" host=127.0.0.1 request_id=63f2038a-f15a-426e-981c-26d03521ecda user_id=-1 dyno=web.1 service=209ms status=401 protocol=https
+Jan 10 23:14:55 log-man app/web.1 GET /images 400 2.155 ms - -
+Jan 10 23:15:02 log-man app/web.1 GET /images/sample.png 200 1.797 ms - 810
+Jan 10 23:15:03 log-man app/web.1 GET /stylesheets 400 5.85 ms - -
+Jan 10 23:15:06 log-man heroku/router at=info method=GET path="/login" host=127.0.0.1 request_id=1b1cec93-7e62-4fb6-aca2-20393091364c user_id=3 dyno=web.1 service=877ms status=200 protocol=https
+Jan 10 23:15:12 log-man app/web.1 GET /images/sample-logo.svg 200 0.056 ms - 206
+Jan 10 23:15:16 log-man heroku/router at=info method=GET path="/login" host=127.0.0.1 request_id=37af05a4-3a40-4ab2-a8f9-f5c01c7ab949 user_id=2 dyno=web.1 service=2133ms status=200 protocol=https
+Jan 10 23:15:23 log-man app/web.1 GET /stylesheets 400 0.469 ms - -
+Jan 10 23:15:26 log-man app/web.1 GET /javascript/analytics.js 200 2.652 ms - 1092
+Jan 10 23:15:29 log-man app/web.1 GET /javascript/test.js 404 1.289 ms - -
+Jan 10 23:15:38 log-man app/web.1 GET /javascript/analytics.js 200 0.183 ms - 1092
+Jan 10 23:15:40 log-man heroku/router at=info method=POST path="/login" host=127.0.0.1 request_id=cab75daf-6997-41b3-9956-bc7c76792563 user_id=2 dyno=web.1 service=1182ms status=200 protocol=https
+Jan 10 23:15:47 log-man heroku/router at=info method=HEAD path="/contact" host=127.0.0.1 request_id=164f8cf7-e919-4210-9b9c-347573d9ef53 user_id=2 dyno=web.1 service=1654ms status=200 protocol=https
+Jan 10 23:15:54 log-man heroku/router at=info method=GET path="/adm" host=127.0.0.1 request_id=e96b2c21-db05-44e8-b316-894cfee98ba5 user_id=1 dyno=web.1 service=1119ms status=403 protocol=https
+Jan 10 23:15:54 log-man heroku/router at=info method=GET path="/about" host=127.0.0.1 request_id=718931dc-f593-4b21-b722-2b88eae523af user_id=2 dyno=web.1 service=1527ms status=200 protocol=https
+Jan 10 23:16:01 log-man app/web.1 GET /javascript/ctvdlwaozsfl.js 404 0.0 ms - -
+Jan 10 23:16:04 log-man heroku/router at=info method=HEAD path="/about" host=127.0.0.1 request_id=78b43a77-7be0-4126-810b-dd022ae74066 user_id=1 dyno=web.1 service=1387ms status=200 protocol=https
+Jan 10 23:16:13 log-man app/web.1 GET /images/sample.png 200 4.17 ms - 810
+Jan 10 23:16:17 log-man heroku/router at=info method=GET path="/" host=127.0.0.1 request_id=ae24a367-2879-485a-bac9-6a0f0c7660af user_id=4 dyno=web.1 service=1770ms status=200 protocol=https
+Jan 10 23:16:22 log-man heroku/router at=info method=POST path="/" host=127.0.0.1 request_id=04d21334-486e-410c-a34d-e6ef2e3d03a6 user_id=4 dyno=web.1 service=1964ms status=404 protocol=https
+Jan 10 23:16:25 log-man heroku/router at=info method=HEAD path="/logout" host=127.0.0.1 request_id=1142fdcb-a4a1-4d89-a58c-7018bf9f157b user_id=4 dyno=web.1 service=1282ms status=200 protocol=https
+Jan 10 23:16:30 log-man heroku/router at=info method=OPTIONS path="/adm" host=127.0.0.1 request_id=713393a5-6759-44c1-9c0f-1fe3336fcb1b user_id=-1 dyno=web.1 service=1972ms status=403 protocol=https
+Jan 10 23:16:39 log-man app/web.1 GET /images/cats.jpg 404 0.4 ms - -
+Jan 10 23:16:44 log-man heroku/router at=info method=POST path="/contact" host=127.0.0.1 request_id=a841497d-bcde-4ba9-be1f-580b11b43e8e user_id=3 dyno=web.1 service=1462ms status=404 protocol=https
+Jan 10 23:16:45 log-man app/web.1 GET /stylesheets/combined.css 200 0.815 ms - 655
+Jan 10 23:16:50 log-man heroku/router at=info method=GET path="/contact" host=127.0.0.1 request_id=7bc6c918-6cc9-4ff0-b539-866dc0416b5d user_id=4 dyno=web.1 service=1558ms status=200 protocol=https
+Jan 10 23:16:55 log-man app/web.1 GET /images/sample.png 200 0.508 ms - 810
+Jan 10 23:16:58 log-man app/web.1 GET /images/cats.jpg 404 0.533 ms - -
+Jan 10 23:17:02 log-man app/web.1 GET /images/sample.png 200 0.236 ms - 810
+Jan 10 23:17:07 log-man app/web.1 GET /javascript/idopnezdrjal.js 404 0.085 ms - -
+Jan 10 23:17:09 log-man app/web.1 GET /javascript/test.js 404 0.622 ms - -
+Jan 10 23:17:11 log-man app/web.1 GET /favicon.ico 404 3.904 ms - -
+Jan 10 23:17:20 log-man heroku/router at=info method=OPTIONS path="/iehuzrgbyc" host=127.0.0.1 request_id=5e8477a3-86e0-469d-87e3-200c39455173 user_id=-1 dyno=web.1 service=2032ms status=404 protocol=https
+Jan 10 23:17:24 log-man app/web.1 GET /stylesheets 400 3.412 ms - -
+Jan 10 23:17:32 log-man app/web.1 GET /favicon.ico 404 1.433 ms - -
+Jan 10 23:17:36 log-man app/web.1 GET /javascript/xzjofvmhwsmw.js 404 0.91 ms - -
+Jan 10 23:17:46 log-man app/web.1 GET /images/sample.png 200 5.646 ms - 810
+Jan 10 23:17:54 log-man app/web.1 GET /stylesheets/combined.css 200 0.308 ms - 655
+Jan 10 23:18:01 log-man heroku/router at=info method=HEAD path="/login" host=127.0.0.1 request_id=f2e40441-3cc1-4f2d-9e8c-78fd46fb4e21 user_id=4 dyno=web.1 service=2135ms status=200 protocol=https
+Jan 10 23:18:09 log-man heroku/router at=info method=OPTIONS path="/contact" host=127.0.0.1 request_id=266139c7-7a44-4cc8-b54b-67acb9b91720 user_id=3 dyno=web.1 service=1708ms status=200 protocol=https
+Jan 10 23:18:10 log-man app/web.1 GET /favicon.ico 404 0.023 ms - -
+Jan 10 23:18:17 log-man app/web.1 GET /javascript/aezzycqrcrto.js 404 0.696 ms - -
+Jan 10 23:18:17 log-man app/web.1 GET /robots.txt 200 4.371 ms - 80
+Jan 10 23:18:23 log-man app/web.1 GET /images/cats.jpg 404 3.072 ms - -
+Jan 10 23:18:25 log-man app/web.1 GET /images/sample-logo.svg 200 0.998 ms - 206
+Jan 10 23:18:34 log-man app/web.1 GET /images/cats.jpg 404 1.566 ms - -
+Jan 10 23:18:39 log-man app/web.1 GET /images/sample.png 200 0.926 ms - 810
+Jan 10 23:18:40 log-man app/web.1 GET /images 400 1.745 ms - -
+Jan 10 23:18:49 log-man app/web.1 GET /stylesheets 400 0.478 ms - -
+Jan 10 23:18:56 log-man app/web.1 GET /robots.txt 200 0.917 ms - 80
+Jan 10 23:19:02 log-man app/web.1 GET /javascript/analytics.js 200 2.544 ms - 1092
+Jan 10 23:19:10 log-man heroku/router at=info method=GET path="/adm" host=127.0.0.1 request_id=8c925ae6-aa4d-44a6-8cff-a878a617e7d9 user_id=-1 dyno=web.1 service=679ms status=403 protocol=https
+Jan 10 23:19:18 log-man heroku/router at=info method=GET path="/login" host=127.0.0.1 request_id=84fab017-05d4-44d4-b0cc-98d1d299f2a2 user_id=1 dyno=web.1 service=2160ms status=200 protocol=https
+Jan 10 23:19:23 log-man app/web.1 GET /favicon.ico 404 0.645 ms - -
+Jan 10 23:19:32 log-man heroku/router at=info method=HEAD path="/login" host=127.0.0.1 request_id=ce3d4498-9f1b-4ec8-b9ba-b92bf9510a9c user_id=1 dyno=web.1 service=1955ms status=200 protocol=https
+Jan 10 23:19:38 log-man heroku/router at=info method=GET path="/contact" host=127.0.0.1 request_id=b5a7b719-80b0-4496-aa9f-a1e340d92a57 user_id=3 dyno=web.1 service=1434ms status=200 protocol=https
+Jan 10 23:19:41 log-man app/web.1 GET /javascript/test.js 404 1.126 ms - -
+Jan 10 23:19:45 log-man app/web.1 GET /favicon.ico 404 4.498 ms - -
+Jan 10 23:19:48 log-man heroku/router at=info method=POST path="/contact" host=127.0.0.1 request_id=5875459b-c26f-412e-aeb2-46186180b1d4 user_id=2 dyno=web.1 service=2359ms status=404 protocol=https
+Jan 10 23:19:57 log-man heroku/router at=info method=GET path="/login" host=127.0.0.1 request_id=9cfc3a7b-2141-498e-ba27-41ce307d0a95 user_id=2 dyno=web.1 service=1188ms status=200 protocol=https
+Jan 10 23:19:58 log-man app/web.1 GET /images 400 0.215 ms - -
+Jan 10 23:20:01 log-man app/web.1 GET /images 400 0.514 ms - -
+Jan 10 23:20:07 log-man app/web.1 GET /favicon.ico 404 3.432 ms - -
+Jan 10 23:20:17 log-man heroku/router at=info method=GET path="/login" host=127.0.0.1 request_id=01ae7e7c-896e-44ce-bc91-0d0468dadc40 user_id=4 dyno=web.1 service=616ms status=200 protocol=https
+Jan 10 23:20:21 log-man heroku/router at=info method=GET path="/logout" host=127.0.0.1 request_id=6ed7ed94-1efb-4253-9eea-7423a12708f1 user_id=-1 dyno=web.1 service=1775ms status=200 protocol=https
+Jan 10 23:20:24 log-man heroku/router at=info method=GET path="/login" host=127.0.0.1 request_id=bbbd4041-1c84-425d-a2e5-7486ec048155 user_id=3 dyno=web.1 service=632ms status=200 protocol=https
+Jan 10 23:20:28 log-man heroku/router at=info method=HEAD path="/adm" host=127.0.0.1 request_id=96ba84a1-4a30-4400-bed8-b1845fca5f7c user_id=1 dyno=web.1 service=900ms status=403 protocol=https
+Jan 10 23:20:36 log-man heroku/router at=info method=OPTIONS path="/" host=127.0.0.1 request_id=0552881c-d592-4b96-8fc9-41fca270a153 user_id=3 dyno=web.1 service=247ms status=200 protocol=https
+Jan 10 23:20:45 log-man app/web.1 GET /images/cats.jpg 404 0.428 ms - -
+Jan 10 23:20:54 log-man heroku/router at=info method=GET path="/" host=127.0.0.1 request_id=ccf8d51c-1f83-42b9-acd6-b7c17cd69785 user_id=3 dyno=web.1 service=2177ms status=200 protocol=https
+Jan 10 23:21:04 log-man app/web.1 GET /images/sample.png 200 2.248 ms - 810
+Jan 10 23:21:06 log-man app/web.1 GET /favicon.ico 404 0.008 ms - -
+Jan 10 23:21:13 log-man app/web.1 GET /robots.txt 200 2.75 ms - 80
+Jan 10 23:21:15 log-man heroku/router at=info method=POST path="/contact" host=127.0.0.1 request_id=b9e44ac5-4658-475a-98af-4646466d914b user_id=4 dyno=web.1 service=1182ms status=404 protocol=https
+Jan 10 23:21:18 log-man app/web.1 GET /javascript/ubosunefptgq.js 404 0.492 ms - -
+Jan 10 23:21:25 log-man app/web.1 GET /javascript/test.js 404 3.753 ms - -
+Jan 10 23:21:28 log-man app/web.1 GET /images/sample.png 200 1.857 ms - 810
+Jan 10 23:21:34 log-man app/web.1 GET /images/sample.png 200 0.806 ms - 810
+Jan 10 23:21:35 log-man heroku/router at=info method=GET path="/about" host=127.0.0.1 request_id=0d8684ff-3c40-4b74-a7c6-c3ceb78a3ab0 user_id=1 dyno=web.1 service=2141ms status=200 protocol=https
+Jan 10 23:21:42 log-man app/web.1 GET /images/sample.png 200 2.006 ms - 810
+Jan 10 23:21:46 log-man app/web.1 GET /favicon.ico 404 0.713 ms - -
+Jan 10 23:21:54 log-man app/web.1 GET /stylesheets 400 2.403 ms - -
+Jan 10 23:21:54 log-man app/web.1 GET /stylesheets 400 0.661 ms - -
+Jan 10 23:21:56 log-man app/web.1 GET /images 400 1.512 ms - -
+Jan 10 23:22:01 log-man app/web.1 GET /stylesheets/combined.css 200 0.98 ms - 655
+Jan 10 23:22:07 log-man heroku/router at=info method=GET path="/login" host=127.0.0.1 request_id=6afac13d-68db-4825-9f92-f4b9a9cfe8b3 user_id=3 dyno=web.1 service=362ms status=200 protocol=https
+Jan 10 23:22:14 log-man app/web.1 GET /stylesheets/combined.css 200 0.722 ms - 655
+Jan 10 23:22:18 log-man app/web.1 GET /images/sample-logo.svg 200 0.708 ms - 206
+Jan 10 23:22:26 log-man app/web.1 GET /stylesheets/combined.css 200 0.29 ms - 655
+Jan 10 23:22:29 log-man app/web.1 GET /javascript/test.js 404 1.525 ms - -
+Jan 10 23:22:38 log-man app/web.1 GET /favicon.ico 404 4.388 ms - -
+Jan 10 23:22:39 log-man app/web.1 GET /images/sample.png 200 0.966 ms - 810
+Jan 10 23:22:48 log-man heroku/router at=info method=HEAD path="/vdtr" host=127.0.0.1 request_id=e120d47c-f7ca-45f1-a06f-9da347a61221 user_id=1 dyno=web.1 service=1356ms status=404 protocol=https
+Jan 10 23:22:48 log-man heroku/router at=info method=GET path="/logout" host=127.0.0.1 request_id=92828f6f-9286-4d44-8b95-e19f902a90c4 user_id=4 dyno=web.1 service=1029ms status=200 protocol=https
+Jan 10 23:22:52 log-man app/web.1 GET /javascript/crerxppkezkl.js 404 2.341 ms - -
+Jan 10 23:22:57 log-man app/web.1 GET /images/sample.png 200 0.667 ms - 810
+Jan 10 23:22:58 log-man heroku/router at=info method=POST path="/adm" host=127.0.0.1 request_id=27dc1eaf-a1c6-4581-8a08-328a3a0871ad user_id=3 dyno=web.1 service=760ms status=404 protocol=https
+Jan 10 23:23:08 log-man app/web.1 GET /robots.txt 200 0.53 ms - 80
+Jan 10 23:23:10 log-man app/web.1 GET /stylesheets/combined.css 200 0.041 ms - 655
+Jan 10 23:23:19 log-man heroku/router at=info method=GET path="/about" host=127.0.0.1 request_id=44e60aee-d334-472d-8312-d837598a7b5c user_id=2 dyno=web.1 service=671ms status=200 protocol=https
+Jan 10 23:23:24 log-man heroku/router at=info method=OPTIONS path="/adm" host=127.0.0.1 request_id=f35a20c6-09b6-458b-b53c-7df189fe4091 user_id=-1 dyno=web.1 service=1392ms status=403 protocol=https
+Jan 10 23:23:33 log-man app/web.1 GET /stylesheets/style.css 200 1.353 ms - 324
+Jan 10 23:23:37 log-man heroku/router at=info method=GET path="/" host=127.0.0.1 request_id=85db2556-ec29-46bf-bd90-2941206ab700 user_id=3 dyno=web.1 service=2411ms status=200 protocol=https
+Jan 10 23:23:42 log-man app/web.1 GET /favicon.ico 404 4.248 ms - -
+Jan 10 23:23:42 log-man app/web.1 GET /favicon.ico 404 0.631 ms - -
+Jan 10 23:23:43 log-man app/web.1 GET /images/sample-logo.svg 200 1.738 ms - 206
+Jan 10 23:23:45 log-man app/web.1 GET /javascript/cgeujmjyaedn.js 404 0.812 ms - -
+Jan 10 23:23:53 log-man app/web.1 GET /javascript/test.js 404 1.529 ms - -
+Jan 10 23:23:56 log-man heroku/router at=info method=GET path="/login" host=127.0.0.1 request_id=053269b6-63be-4077-a5ed-3c947f7362f3 user_id=1 dyno=web.1 service=1079ms status=200 protocol=https
+Jan 10 23:24:01 log-man app/web.1 GET /images 400 0.104 ms - -
+Jan 10 23:24:03 log-man app/web.1 GET /favicon.ico 404 0.421 ms - -
+Jan 10 23:24:10 log-man app/web.1 GET /favicon.ico 404 0.839 ms - -
+Jan 10 23:24:13 log-man app/web.1 GET /javascript/test.js 404 1.607 ms - -
+Jan 10 23:24:13 log-man heroku/router at=info method=GET path="/login" host=127.0.0.1 request_id=e0b9032b-de2a-46d4-9ea3-b9fb3f1d4c9d user_id=3 dyno=web.1 service=2048ms status=200 protocol=https
+Jan 10 23:24:23 log-man app/web.1 GET /robots.txt 200 1.938 ms - 80
+Jan 10 23:24:26 log-man app/web.1 GET /javascript/analytics.js 200 0.743 ms - 1092
+Jan 10 23:24:35 log-man heroku/router at=info method=GET path="/" host=127.0.0.1 request_id=931d95b9-a55e-453b-8d32-852ff07d7e69 user_id=1 dyno=web.1 service=1176ms status=200 protocol=https
+Jan 10 23:24:43 log-man app/web.1 GET /images/sample.png 200 0.096 ms - 810
+Jan 10 23:24:49 log-man app/web.1 GET /javascript/xrndbhzdrnav.js 404 0.143 ms - -
+Jan 10 23:24:54 log-man app/web.1 GET /javascript/analytics.js 200 4.841 ms - 1092
+Jan 10 23:25:04 log-man app/web.1 GET /stylesheets 400 0.657 ms - -
+Jan 10 23:25:13 log-man app/web.1 GET /stylesheets/combined.css 200 0.012 ms - 655
+Jan 10 23:25:21 log-man heroku/router at=info method=HEAD path="/contact" host=127.0.0.1 request_id=04aad6e6-e0d2-4f99-990b-075aae5a1a56 user_id=-1 dyno=web.1 service=2052ms status=200 protocol=https
+Jan 10 23:25:29 log-man app/web.1 GET /robots.txt 200 2.035 ms - 80
+Jan 10 23:25:32 log-man app/web.1 GET /stylesheets/style.css 200 4.764 ms - 324
+Jan 10 23:25:36 log-man app/web.1 GET /images/sample-logo.svg 200 0.069 ms - 206
+Jan 10 23:25:41 log-man heroku/router at=info method=GET path="/ewinefb" host=127.0.0.1 request_id=36b71f9a-541e-42bb-bd74-d817c6db71cc user_id=1 dyno=web.1 service=1882ms status=404 protocol=https
+Jan 10 23:25:46 log-man heroku/router at=info method=GET path="/contact" host=127.0.0.1 request_id=e27b6cb6-49ce-4193-8382-5c3dd851c7c1 user_id=-1 dyno=web.1 service=1320ms status=200 protocol=https
+Jan 10 23:25:52 log-man app/web.1 GET /images/sample.png 200 2.711 ms - 810
+Jan 10 23:25:59 log-man heroku/router at=info method=GET path="/about" host=127.0.0.1 request_id=a1db9008-2f20-40da-a141-5c558dc4561e user_id=4 dyno=web.1 service=1482ms status=200 protocol=https
+Jan 10 23:26:01 log-man heroku/router at=info method=POST path="/adm" host=127.0.0.1 request_id=f915a8f8-1998-423a-8e95-787d449b826a user_id=-1 dyno=web.1 service=2298ms status=404 protocol=https
+Jan 10 23:26:09 log-man app/web.1 GET /images/sample-logo.svg 200 1.397 ms - 206
+Jan 10 23:26:12 log-man heroku/router at=info method=GET path="/login" host=127.0.0.1 request_id=8d68e110-0994-4491-abdf-44a7ead9a6b0 user_id=3 dyno=web.1 service=995ms status=200 protocol=https
+Jan 10 23:26:13 log-man app/web.1 GET /javascript/analytics.js 200 0.235 ms - 1092
+Jan 10 23:26:18 log-man app/web.1 GET /javascript/analytics.js 200 0.953 ms - 1092
+Jan 10 23:26:23 log-man app/web.1 GET /javascript/analytics.js 200 0.985 ms - 1092
+Jan 10 23:26:29 log-man heroku/router at=info method=GET path="/adm" host=127.0.0.1 request_id=0471eb75-6d91-4812-9851-82963eb8f2ec user_id=4 dyno=web.1 service=1051ms status=200 protocol=https
+Jan 10 23:26:32 log-man app/web.1 GET /robots.txt 200 2.853 ms - 80
+Jan 10 23:26:38 log-man app/web.1 GET /images/sample-logo.svg 200 4.71 ms - 206
+Jan 10 23:26:39 log-man heroku/router at=info method=GET path="/contact" host=127.0.0.1 request_id=df389669-28ae-450e-bd86-84461c8017de user_id=3 dyno=web.1 service=2214ms status=200 protocol=https
+Jan 10 23:26:41 log-man heroku/router at=info method=HEAD path="/logout" host=127.0.0.1 request_id=8cf67926-b51a-4523-95a8-0d67e725557e user_id=1 dyno=web.1 service=1397ms status=200 protocol=https
+Jan 10 23:26:42 log-man app/web.1 GET /javascript/test.js 404 1.147 ms - -
+Jan 10 23:26:50 log-man app/web.1 GET /images/sample-logo.svg 200 2.504 ms - 206
+Jan 10 23:26:58 log-man heroku/router at=info method=GET path="/login" host=127.0.0.1 request_id=234834ed-ab78-4898-8679-e18b44f91913 user_id=4 dyno=web.1 service=2159ms status=200 protocol=https
+Jan 10 23:27:03 log-man app/web.1 GET /stylesheets 400 0.491 ms - -
+Jan 10 23:27:04 log-man heroku/router at=info method=POST path="/" host=127.0.0.1 request_id=3d131109-7495-4b03-833b-2dc3591222fe user_id=-1 dyno=web.1 service=555ms status=404 protocol=https
+Jan 10 23:27:11 log-man app/web.1 GET /favicon.ico 404 0.116 ms - -
+Jan 10 23:27:21 log-man heroku/router at=info method=GET path="/adm" host=127.0.0.1 request_id=a0d37023-ff4a-4ce4-a9d0-49fffdb7e860 user_id=1 dyno=web.1 service=465ms status=403 protocol=https
+Jan 10 23:27:26 log-man app/web.1 GET /stylesheets/style.css 200 0.871 ms - 324
+Jan 10 23:27:36 log-man app/web.1 GET /javascript/teordccvpwly.js 404 0.933 ms - -
+Jan 10 23:27:42 log-man app/web.1 GET /javascript/analytics.js 200 2.79 ms - 1092
+Jan 10 23:27:42 log-man heroku/router at=info method=GET path="/adm" host=127.0.0.1 request_id=ce6661c3-3573-4faf-a84f-554e137c3ee4 user_id=1 dyno=web.1 service=1246ms status=403 protocol=https
+Jan 10 23:27:51 log-man app/web.1 GET /images 400 5.036 ms - -
+Jan 10 23:27:56 log-man app/web.1 GET /javascript/maphlriicumi.js 404 1.727 ms - -
+Jan 10 23:28:02 log-man app/web.1 GET /images/sample-logo.svg 200 0.805 ms - 206
+Jan 10 23:28:06 log-man heroku/router at=info method=GET path="/login" host=127.0.0.1 request_id=c07c0be0-755e-47e6-891c-b87b22698b12 user_id=4 dyno=web.1 service=1770ms status=200 protocol=https
+Jan 10 23:28:09 log-man app/web.1 GET /stylesheets/style.css 200 1.359 ms - 324
+Jan 10 23:28:09 log-man app/web.1 GET /images/cats.jpg 404 1.72 ms - -
+Jan 10 23:28:17 log-man heroku/router at=info method=POST path="/contact" host=127.0.0.1 request_id=7fa33084-58e8-4be8-bd79-376476072236 user_id=3 dyno=web.1 service=999ms status=404 protocol=https
+Jan 10 23:28:17 log-man heroku/router at=info method=OPTIONS path="/rxni" host=127.0.0.1 request_id=9c04e315-3b31-4712-95f3-17b7e872c1dc user_id=3 dyno=web.1 service=267ms status=404 protocol=https
+Jan 10 23:28:22 log-man app/web.1 GET /javascript/wrosrghiscxd.js 404 1.094 ms - -
+Jan 10 23:28:24 log-man app/web.1 GET /images 400 1.877 ms - -
+Jan 10 23:28:24 log-man app/web.1 GET /javascript/test.js 404 1.879 ms - -
+Jan 10 23:28:30 log-man app/web.1 GET /images/sample.png 200 1.496 ms - 810
+Jan 10 23:28:40 log-man app/web.1 GET /images/sample-logo.svg 200 0.599 ms - 206
+Jan 10 23:28:49 log-man heroku/router at=info method=HEAD path="/contact" host=127.0.0.1 request_id=8d4f81af-ce8e-4e1e-a587-ebfb645ec55c user_id=-1 dyno=web.1 service=955ms status=200 protocol=https
+Jan 10 23:28:50 log-man heroku/router at=info method=HEAD path="/contact" host=127.0.0.1 request_id=53586bd2-d1da-4af6-be9d-b5b63bdf0142 user_id=1 dyno=web.1 service=1858ms status=200 protocol=https
+Jan 10 23:28:51 log-man heroku/router at=info method=HEAD path="/about" host=127.0.0.1 request_id=ce47ca50-8cf9-4a28-a47a-e547c1ac509a user_id=1 dyno=web.1 service=1721ms status=200 protocol=https
+Jan 10 23:28:59 log-man app/web.1 GET /javascript/test.js 404 0.547 ms - -
+Jan 10 23:29:04 log-man app/web.1 GET /images/sample.png 200 1.836 ms - 810
+Jan 10 23:29:14 log-man app/web.1 GET /favicon.ico 404 3.536 ms - -
+Jan 10 23:29:22 log-man heroku/router at=info method=OPTIONS path="/login" host=127.0.0.1 request_id=69d8688a-ffff-4a23-9ff6-88503a952275 user_id=3 dyno=web.1 service=1028ms status=200 protocol=https
+Jan 10 23:29:27 log-man heroku/router at=info method=GET path="/adm" host=127.0.0.1 request_id=593531c2-6d7a-4367-8708-a991b2763fc9 user_id=4 dyno=web.1 service=2484ms status=200 protocol=https
+Jan 10 23:29:34 log-man app/web.1 GET /images/sample-logo.svg 200 2.999 ms - 206
+Jan 10 23:29:44 log-man app/web.1 GET /stylesheets 400 0.102 ms - -
+Jan 10 23:29:48 log-man app/web.1 GET /stylesheets 400 2.812 ms - -
+Jan 10 23:29:48 log-man app/web.1 GET /images/cats.jpg 404 0.487 ms - -
+Jan 10 23:29:56 log-man app/web.1 GET /images/cats.jpg 404 0.911 ms - -
+Jan 10 23:30:04 log-man heroku/router at=info method=GET path="/logout" host=127.0.0.1 request_id=4713e850-9a48-456e-8934-96cce771f907 user_id=2 dyno=web.1 service=1954ms status=200 protocol=https
+Jan 10 23:30:08 log-man heroku/router at=info method=GET path="/about" host=127.0.0.1 request_id=989697f5-0462-47fb-8c36-c3a4a0170605 user_id=4 dyno=web.1 service=394ms status=200 protocol=https
+Jan 10 23:30:17 log-man app/web.1 GET /images 400 2.065 ms - -
+Jan 10 23:30:18 log-man heroku/router at=info method=GET path="/wtbtua" host=127.0.0.1 request_id=71aa19f5-c229-4222-8b32-b702f8b13ee4 user_id=4 dyno=web.1 service=1267ms status=404 protocol=https
+Jan 10 23:30:20 log-man app/web.1 GET /images 400 0.452 ms - -
+Jan 10 23:30:28 log-man app/web.1 GET /images/sample.png 200 0.956 ms - 810
+Jan 10 23:30:32 log-man app/web.1 GET /images/sample-logo.svg 200 0.347 ms - 206
+Jan 10 23:30:39 log-man app/web.1 GET /images/sample.png 200 1.778 ms - 810
+Jan 10 23:30:48 log-man app/web.1 GET /javascript/atjpqftitdvs.js 404 2.646 ms - -
+Jan 10 23:30:51 log-man heroku/router at=info method=GET path="/login" host=127.0.0.1 request_id=adc6724d-309a-4b15-ad4c-1fd9a638f015 user_id=2 dyno=web.1 service=2079ms status=200 protocol=https
+Jan 10 23:31:00 log-man app/web.1 GET /images/cats.jpg 404 2.322 ms - -
+Jan 10 23:31:02 log-man app/web.1 GET /stylesheets/style.css 200 1.367 ms - 324
+Jan 10 23:31:09 log-man app/web.1 GET /robots.txt 200 1.509 ms - 80
+Jan 10 23:31:15 log-man app/web.1 GET /javascript/iddztwshntav.js 404 0.117 ms - -
+Jan 10 23:31:18 log-man app/web.1 GET /favicon.ico 404 0.21 ms - -
+Jan 10 23:31:24 log-man heroku/router at=info method=GET path="/logout" host=127.0.0.1 request_id=5e90807d-9f6c-4727-8393-66ce8aad48b7 user_id=-1 dyno=web.1 service=2084ms status=200 protocol=https
+Jan 10 23:31:28 log-man app/web.1 GET /javascript/analytics.js 200 1.493 ms - 1092
+Jan 10 23:31:37 log-man heroku/router at=info method=HEAD path="/contact" host=127.0.0.1 request_id=c2c54ce4-758c-4720-8eb5-6111782a106b user_id=-1 dyno=web.1 service=1037ms status=200 protocol=https
+Jan 10 23:31:38 log-man app/web.1 GET /images/sample-logo.svg 200 0.635 ms - 206
+Jan 10 23:31:38 log-man app/web.1 GET /stylesheets/combined.css 200 3.021 ms - 655
+Jan 10 23:31:38 log-man app/web.1 GET /images 400 2.724 ms - -
+Jan 10 23:31:42 log-man app/web.1 GET /stylesheets 400 1.643 ms - -
+Jan 10 23:31:50 log-man heroku/router at=info method=GET path="/about" host=127.0.0.1 request_id=84fc1ed5-4e30-45e2-8a3c-c2ca8a8c359e user_id=2 dyno=web.1 service=1069ms status=200 protocol=https
+Jan 10 23:31:56 log-man heroku/router at=info method=HEAD path="/about" host=127.0.0.1 request_id=ef60a55a-64cb-430c-8a61-5600c3fc8a47 user_id=1 dyno=web.1 service=909ms status=200 protocol=https
+Jan 10 23:31:59 log-man heroku/router at=info method=GET path="/about" host=127.0.0.1 request_id=1e224aa7-50bb-436f-9bb8-8ce02e9745b9 user_id=4 dyno=web.1 service=1875ms status=200 protocol=https
+Jan 10 23:32:03 log-man app/web.1 GET /stylesheets/style.css 200 2.423 ms - 324
+Jan 10 23:32:12 log-man app/web.1 GET /favicon.ico 404 3.4 ms - -
+Jan 10 23:32:20 log-man heroku/router at=info method=HEAD path="/login" host=127.0.0.1 request_id=306a6ff7-5619-433e-a1a6-c79a62ef2a3d user_id=1 dyno=web.1 service=2191ms status=200 protocol=https
+Jan 10 23:32:28 log-man app/web.1 GET /images/sample.png 200 4.16 ms - 810
+Jan 10 23:32:33 log-man app/web.1 GET /stylesheets/style.css 200 1.421 ms - 324
+Jan 10 23:32:35 log-man app/web.1 GET /images/cats.jpg 404 0.461 ms - -
+Jan 10 23:32:43 log-man app/web.1 GET /stylesheets/combined.css 200 1.823 ms - 655
+Jan 10 23:32:53 log-man app/web.1 GET /images/cats.jpg 404 0.744 ms - -
+Jan 10 23:32:58 log-man app/web.1 GET /robots.txt 200 0.662 ms - 80
+Jan 10 23:32:58 log-man app/web.1 GET /stylesheets/combined.css 200 3.579 ms - 655
+Jan 10 23:32:59 log-man heroku/router at=info method=HEAD path="/login" host=127.0.0.1 request_id=b3376e34-0dc6-42d6-8b1f-2651cc148e7d user_id=-1 dyno=web.1 service=1702ms status=200 protocol=https
+Jan 10 23:33:06 log-man app/web.1 GET /javascript/analytics.js 200 1.965 ms - 1092
+Jan 10 23:33:09 log-man app/web.1 GET /images/sample.png 200 1.65 ms - 810
+Jan 10 23:33:11 log-man heroku/router at=info method=GET path="/" host=127.0.0.1 request_id=3751ee20-5628-442f-85b5-cd0fff17bffd user_id=3 dyno=web.1 service=540ms status=200 protocol=https
+Jan 10 23:33:17 log-man app/web.1 GET /stylesheets 400 0.322 ms - -
+Jan 10 23:33:19 log-man app/web.1 GET /robots.txt 200 0.825 ms - 80
+Jan 10 23:33:23 log-man app/web.1 GET /images 400 0.099 ms - -
+Jan 10 23:33:32 log-man app/web.1 GET /images/cats.jpg 404 1.884 ms - -
+Jan 10 23:33:33 log-man app/web.1 GET /stylesheets/combined.css 200 0.863 ms - 655
+Jan 10 23:33:39 log-man app/web.1 GET /stylesheets 400 0.196 ms - -
+Jan 10 23:33:47 log-man app/web.1 GET /stylesheets/combined.css 200 0.706 ms - 655
+Jan 10 23:33:53 log-man app/web.1 GET /images/sample-logo.svg 200 2.33 ms - 206
+Jan 10 23:34:00 log-man app/web.1 GET /javascript/analytics.js 200 1.146 ms - 1092
+Jan 10 23:34:04 log-man heroku/router at=info method=GET path="/wizuxsygi" host=127.0.0.1 request_id=62209553-1ae1-4826-88fd-18f5ede4d2de user_id=2 dyno=web.1 service=965ms status=404 protocol=https
+Jan 10 23:34:12 log-man app/web.1 GET /stylesheets/style.css 200 2.248 ms - 324
+Jan 10 23:34:12 log-man app/web.1 GET /images/sample.png 200 2.399 ms - 810
+Jan 10 23:34:18 log-man heroku/router at=info method=GET path="/login" host=127.0.0.1 request_id=5ad64bf1-0be1-4a59-8cc8-746464f15664 user_id=-1 dyno=web.1 service=1262ms status=200 protocol=https
+Jan 10 23:34:20 log-man heroku/router at=info method=GET path="/login" host=127.0.0.1 request_id=1126fc54-f723-40c7-bf61-5e43ca0191f4 user_id=2 dyno=web.1 service=1217ms status=200 protocol=https
+Jan 10 23:34:27 log-man app/web.1 GET /images 400 2.526 ms - -
+Jan 10 23:34:31 log-man heroku/router at=info method=GET path="/login" host=127.0.0.1 request_id=180fa53f-cc96-4c0f-93ff-82b40764d2fc user_id=3 dyno=web.1 service=389ms status=200 protocol=https
+Jan 10 23:34:37 log-man app/web.1 GET /javascript/epvfvfiozgaa.js 404 5.127 ms - -
+Jan 10 23:34:43 log-man app/web.1 GET /stylesheets/combined.css 200 0.642 ms - 655
+Jan 10 23:34:50 log-man app/web.1 GET /stylesheets/style.css 200 0.177 ms - 324
+Jan 10 23:34:51 log-man app/web.1 GET /images/sample.png 200 3.486 ms - 810
+Jan 10 23:34:59 log-man app/web.1 GET /robots.txt 200 1.756 ms - 80
+Jan 10 23:35:07 log-man app/web.1 GET /stylesheets 400 4.54 ms - -
+Jan 10 23:35:08 log-man heroku/router at=info method=OPTIONS path="/" host=127.0.0.1 request_id=47f545d0-4cd5-4add-a9a6-a0f5dbba7a76 user_id=2 dyno=web.1 service=281ms status=200 protocol=https
+Jan 10 23:35:09 log-man heroku/router at=info method=GET path="/contact" host=127.0.0.1 request_id=08bccede-511d-49d1-88de-a1f0778e9ef3 user_id=1 dyno=web.1 service=855ms status=200 protocol=https
+Jan 10 23:35:14 log-man app/web.1 GET /javascript/test.js 404 0.586 ms - -
+Jan 10 23:35:20 log-man app/web.1 GET /images/sample-logo.svg 200 0.634 ms - 206
+Jan 10 23:35:29 log-man app/web.1 GET /javascript/test.js 404 1.411 ms - -
+Jan 10 23:35:34 log-man app/web.1 GET /favicon.ico 404 4.446 ms - -
+Jan 10 23:35:43 log-man heroku/router at=info method=GET path="/tsyxgl" host=127.0.0.1 request_id=84845d83-13c5-4569-b585-895dd5b95367 user_id=3 dyno=web.1 service=262ms status=404 protocol=https
+Jan 10 23:35:46 log-man app/web.1 GET /stylesheets 400 1.5 ms - -
+Jan 10 23:35:47 log-man app/web.1 GET /images/sample-logo.svg 200 2.847 ms - 206
+Jan 10 23:35:47 log-man app/web.1 GET /stylesheets/combined.css 200 2.562 ms - 655
+Jan 10 23:35:56 log-man heroku/router at=info method=GET path="/about" host=127.0.0.1 request_id=c9ab53ec-96e6-48c1-bd71-7667834f27a5 user_id=-1 dyno=web.1 service=361ms status=200 protocol=https
+Jan 10 23:36:01 log-man heroku/router at=info method=HEAD path="/okkosvnce" host=127.0.0.1 request_id=dc358ac9-a653-4c6e-8d16-27408b099f30 user_id=2 dyno=web.1 service=1422ms status=404 protocol=https
+Jan 10 23:36:11 log-man app/web.1 GET /images/sample-logo.svg 200 0.179 ms - 206
+Jan 10 23:36:11 log-man heroku/router at=info method=GET path="/login" host=127.0.0.1 request_id=4d3addce-6ab6-4159-b5fa-d0b2c1901033 user_id=4 dyno=web.1 service=1895ms status=200 protocol=https
+Jan 10 23:36:15 log-man app/web.1 GET /javascript/analytics.js 200 0.67 ms - 1092
+Jan 10 23:36:23 log-man app/web.1 GET /images/sample-logo.svg 200 2.661 ms - 206
+Jan 10 23:36:25 log-man app/web.1 GET /robots.txt 200 2.197 ms - 80
+Jan 10 23:36:35 log-man app/web.1 GET /images/cats.jpg 404 0.017 ms - -
+Jan 10 23:36:43 log-man app/web.1 GET /images 400 1.285 ms - -
+Jan 10 23:36:45 log-man app/web.1 GET /javascript/analytics.js 200 1.561 ms - 1092
+Jan 10 23:36:46 log-man app/web.1 GET /images 400 2.918 ms - -
+Jan 10 23:36:49 log-man app/web.1 GET /images/sample.png 200 0.572 ms - 810
+Jan 10 23:36:53 log-man heroku/router at=info method=GET path="/fpbmh" host=127.0.0.1 request_id=9f24f5d8-490c-416c-b1e9-baa4dcb6ba51 user_id=-1 dyno=web.1 service=2203ms status=404 protocol=https
+Jan 10 23:36:57 log-man app/web.1 GET /images 400 0.027 ms - -
+Jan 10 23:37:06 log-man app/web.1 GET /javascript/test.js 404 0.858 ms - -
+Jan 10 23:37:15 log-man heroku/router at=info method=HEAD path="/about" host=127.0.0.1 request_id=74b0d4d3-14e7-4ee9-8263-df4f518af087 user_id=4 dyno=web.1 service=1110ms status=200 protocol=https
+Jan 10 23:37:19 log-man app/web.1 GET /stylesheets 400 1.992 ms - -
+Jan 10 23:37:28 log-man app/web.1 GET /images/cats.jpg 404 1.549 ms - -
+Jan 10 23:37:30 log-man heroku/router at=info method=GET path="/login" host=127.0.0.1 request_id=c8b503e4-f388-433e-978f-383c14d7c5dd user_id=1 dyno=web.1 service=977ms status=200 protocol=https
+Jan 10 23:37:31 log-man app/web.1 GET /robots.txt 200 1.753 ms - 80
+Jan 10 23:37:35 log-man app/web.1 GET /stylesheets/combined.css 200 1.201 ms - 655
+Jan 10 23:37:43 log-man app/web.1 GET /images/cats.jpg 404 0.955 ms - -
+Jan 10 23:37:43 log-man heroku/router at=info method=HEAD path="/" host=127.0.0.1 request_id=299a2d08-6e90-4c30-93f2-b73149f126bb user_id=4 dyno=web.1 service=1659ms status=200 protocol=https
+Jan 10 23:37:44 log-man heroku/router at=info method=HEAD path="/login" host=127.0.0.1 request_id=e69644a3-c226-42e7-99a0-f0a30d39aa6a user_id=4 dyno=web.1 service=2480ms status=200 protocol=https
+Jan 10 23:37:52 log-man app/web.1 GET /javascript/analytics.js 200 0.161 ms - 1092
+Jan 10 23:38:00 log-man app/web.1 GET /javascript/analytics.js 200 1.192 ms - 1092
+Jan 10 23:38:04 log-man app/web.1 GET /stylesheets/combined.css 200 0.214 ms - 655
+Jan 10 23:38:12 log-man heroku/router at=info method=GET path="/login" host=127.0.0.1 request_id=53f10bb4-9c3b-4791-a61e-c22208ced1ed user_id=4 dyno=web.1 service=1795ms status=200 protocol=https
+Jan 10 23:38:16 log-man app/web.1 GET /stylesheets/style.css 200 4.472 ms - 324
+Jan 10 23:38:18 log-man app/web.1 GET /javascript/test.js 404 0.247 ms - -
+Jan 10 23:38:19 log-man heroku/router at=info method=GET path="/logout" host=127.0.0.1 request_id=84a677c0-1a6b-47b4-96ca-25dfb6c9d357 user_id=-1 dyno=web.1 service=1249ms status=200 protocol=https
+Jan 10 23:38:22 log-man heroku/router at=info method=POST path="/dauejsstm" host=127.0.0.1 request_id=e1350cf5-b2fa-4ee0-8967-b2dca85cbd4e user_id=1 dyno=web.1 service=1294ms status=404 protocol=https
+Jan 10 23:38:30 log-man app/web.1 GET /javascript/analytics.js 200 2.085 ms - 1092
+Jan 10 23:38:32 log-man app/web.1 GET /images/cats.jpg 404 2.761 ms - -
+Jan 10 23:38:37 log-man heroku/router at=info method=GET path="/login" host=127.0.0.1 request_id=b4ebf18d-92d4-4217-9ae2-4a2a02fff8f4 user_id=1 dyno=web.1 service=137ms status=200 protocol=https
+Jan 10 23:38:44 log-man heroku/router at=info method=GET path="/login" host=127.0.0.1 request_id=c8917f2c-e553-494f-b8c7-c43b2df31002 user_id=2 dyno=web.1 service=1920ms status=200 protocol=https
+Jan 10 23:38:45 log-man app/web.1 GET /images/sample.png 200 0.701 ms - 810
